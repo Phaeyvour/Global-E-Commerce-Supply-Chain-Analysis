@@ -50,4 +50,4 @@ Time period: January 2022 to December 2024 (36 months)
 
 
 ## Full Report
-The complete analysis, including the finding, interpretation, and recommendation for all 12 key results, is available in the report folder.
+The complete analysis, including the finding, interpretation, and recommendation for all 12 key results, are available in the report folder.
